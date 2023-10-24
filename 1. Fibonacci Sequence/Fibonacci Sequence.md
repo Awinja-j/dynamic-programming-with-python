@@ -1,0 +1,1 @@
+Fibonacci Memoization: The Fibonacci sequence is a classic example of a recursive problem that benefits from memoization. By storing computed Fibonacci numbers in an array or dictionary, you can dramatically reduce the number of recursive calls needed.
